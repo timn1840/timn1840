@@ -11,3 +11,5 @@ Some facts about me:
 - 😄 Goals for 2025: land my dream internship in the insurance field, learn to play the violin, and see the aurora in Iceland
 
 Feel free to contact me on GitHub or through email.
+
+My resume: https://github.com/timn1840/Resume/blob/main/Tim%20Nguyen%20Resume.pdf
